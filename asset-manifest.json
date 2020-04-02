@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/todonelive/static/css/main.8534eb2e.chunk.css",
-    "main.js": "/todonelive/static/js/main.03de1266.chunk.js",
-    "main.js.map": "/todonelive/static/js/main.03de1266.chunk.js.map",
-    "runtime-main.js": "/todonelive/static/js/runtime-main.173d2256.js",
-    "runtime-main.js.map": "/todonelive/static/js/runtime-main.173d2256.js.map",
-    "static/js/2.3845f502.chunk.js": "/todonelive/static/js/2.3845f502.chunk.js",
-    "static/js/2.3845f502.chunk.js.map": "/todonelive/static/js/2.3845f502.chunk.js.map",
-    "index.html": "/todonelive/index.html",
-    "precache-manifest.4df2e81278cc72cb0cd442d11f7506d8.js": "/todonelive/precache-manifest.4df2e81278cc72cb0cd442d11f7506d8.js",
-    "service-worker.js": "/todonelive/service-worker.js",
-    "static/css/main.8534eb2e.chunk.css.map": "/todonelive/static/css/main.8534eb2e.chunk.css.map",
-    "static/js/2.3845f502.chunk.js.LICENSE.txt": "/todonelive/static/js/2.3845f502.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/todonelive/static/media/bgtex.f1ec670e.jpg"
+    "main.css": "/todone/static/css/main.b5de6e62.chunk.css",
+    "main.js": "/todone/static/js/main.a36cd86a.chunk.js",
+    "main.js.map": "/todone/static/js/main.a36cd86a.chunk.js.map",
+    "runtime-main.js": "/todone/static/js/runtime-main.5060f74e.js",
+    "runtime-main.js.map": "/todone/static/js/runtime-main.5060f74e.js.map",
+    "static/js/2.3845f502.chunk.js": "/todone/static/js/2.3845f502.chunk.js",
+    "static/js/2.3845f502.chunk.js.map": "/todone/static/js/2.3845f502.chunk.js.map",
+    "index.html": "/todone/index.html",
+    "precache-manifest.f1f996371f79ef2922791dd7cac2b9bc.js": "/todone/precache-manifest.f1f996371f79ef2922791dd7cac2b9bc.js",
+    "service-worker.js": "/todone/service-worker.js",
+    "static/css/main.b5de6e62.chunk.css.map": "/todone/static/css/main.b5de6e62.chunk.css.map",
+    "static/js/2.3845f502.chunk.js.LICENSE.txt": "/todone/static/js/2.3845f502.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/todone/static/media/bgtex.f1ec670e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.173d2256.js",
+    "static/js/runtime-main.5060f74e.js",
     "static/js/2.3845f502.chunk.js",
-    "static/css/main.8534eb2e.chunk.css",
-    "static/js/main.03de1266.chunk.js"
+    "static/css/main.b5de6e62.chunk.css",
+    "static/js/main.a36cd86a.chunk.js"
   ]
 }
